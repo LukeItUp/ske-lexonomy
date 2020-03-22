@@ -1,0 +1,23 @@
+{
+  "name": "@gareins/ske-lexonomy",
+  "version": "0.0.1",
+  "description": "Access SKE inside Lexonomy custom entry editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gareins/ske-lexonomy.git"
+  },
+  "keywords": [
+    "lexonomy",
+    "ske"
+  ],
+  "author": "Ozbolt Menegatti <ozbolt.menegatti@gmail.com> (https://ozbo.lt)",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/gareins/ske-lexonomy/issues"
+  },
+  "homepage": "https://github.com/gareins/ske-lexonomy#readme"
+}
